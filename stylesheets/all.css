@@ -12,47 +12,56 @@ header.navbar {
   header.navbar .vcard {
     margin-top: 22px; }
 
-/* line 20, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
-.company header h1 {
-  font-size: 26px; }
-/* line 23, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
-.company header .date {
-  display: block;
-  font-size: 16px; }
-/* line 27, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
-.company header .explanation {
-  display: block;
-  font-size: 12px;
-  color: gray; }
+/* line 17, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+.company {
+  margin-top: 20px; }
+  /* line 20, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  .company header h1 {
+    font-size: 24px; }
+  /* line 23, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  .company header .date {
+    display: block;
+    font-size: 14px; }
+  /* line 27, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  .company header .explanation {
+    display: block;
+    font-size: 12px;
+    color: gray; }
+  /* line 34, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  .company .description h1 {
+    font-size: 20px; }
 
-/* line 35, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
-.page-header.top {
+/* line 42, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+.page-header.top,
+.i-know h1,
+.ive-worked h1 {
   margin-top: 0; }
 
-/* line 40, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+/* line 46, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+.ive-worked {
+  margin-top: 20px; }
+
+/* line 51, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
 section h1 {
   font-size: 2em; }
-  /* line 42, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  /* line 53, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
   section h1:first-child {
     margin-top: 0; }
-/* line 46, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+/* line 57, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
 section h2 {
   font-size: 1.6em; }
-/* line 50, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+/* line 61, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
 section section h1 {
   font-size: 1.6em; }
-  /* line 52, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
-  section section h1:first-child {
-    margin-top: 20px; }
-/* line 56, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+/* line 64, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
 section section h2 {
   font-size: 1.3em; }
 
-/* line 62, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+/* line 70, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
 ul {
   padding-left: 0;
   list-style: none; }
-  /* line 65, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
+  /* line 73, /Users/jamesbrennan/development/projects/james-brennan-resume/source/stylesheets/all.css.scss */
   ul ul {
     padding-left: 20px;
     list-style: circle; }
